@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6448a1eb-e687-417d-8e6e-1df5acc9515e" name="Changes" comment="right angle tringle">
-      <change beforePath="$PROJECT_DIR$/patterns_programs_right_angle_T.py" beforeDir="false" afterPath="$PROJECT_DIR$/patterns_programs_right_angle_T.py" afterDir="false" />
-    </list>
+    <list default="true" id="6448a1eb-e687-417d-8e6e-1df5acc9515e" name="Changes" comment="right angle triangle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +103,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706423064294</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="right angle triangle">
+      <option name="closed" value="true" />
+      <created>1706423497626</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706423497626</updated>
+    </task>
+    <task id="LOCAL-00005" summary="right angle triangle">
+      <option name="closed" value="true" />
+      <created>1706423862463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706423862463</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1" />
     <MESSAGE value="right angle tringle" />
-    <option name="LAST_COMMIT_MESSAGE" value="right angle tringle" />
+    <MESSAGE value="right angle triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="right angle triangle" />
   </component>
 </project>
