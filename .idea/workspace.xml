@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6448a1eb-e687-417d-8e6e-1df5acc9515e" name="Changes" comment="patterns">
-      <change afterPath="$PROJECT_DIR$/Data_time_module.py" afterDir="false" />
+    <list default="true" id="6448a1eb-e687-417d-8e6e-1df5acc9515e" name="Changes" comment="data_time">
+      <change afterPath="$PROJECT_DIR$/rock_paper_scissors_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patterns_programs_right_angle_T.py" beforeDir="false" afterPath="$PROJECT_DIR$/patterns_programs_right_angle_T.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
     "Python.main.executor": "Run",
     "Python.patterns_programs.executor": "Run",
     "Python.patterns_programs_right_angle_T.executor": "Run",
+    "Python.rock_paper_scissors_game.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -140,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706424371303</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="data_time">
+      <option name="closed" value="true" />
+      <created>1706507230961</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706507230961</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +167,7 @@
     <MESSAGE value="right angle tringle" />
     <MESSAGE value="right angle triangle" />
     <MESSAGE value="patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="patterns" />
+    <MESSAGE value="data_time" />
+    <option name="LAST_COMMIT_MESSAGE" value="data_time" />
   </component>
 </project>
