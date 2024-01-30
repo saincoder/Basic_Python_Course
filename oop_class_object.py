@@ -4,6 +4,8 @@ class Person:
     country = 'Pakistan'
     a = 100
 
+    def __init__(self):
+        print('***************Class and Objects*******************')
     def display_info(self):
         """
         Display general information about a person.
