@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6448a1eb-e687-417d-8e6e-1df5acc9515e" name="Changes" comment="class object methods and constructor">
-      <change afterPath="$PROJECT_DIR$/inheritance_python.py" afterDir="false" />
+    <list default="true" id="6448a1eb-e687-417d-8e6e-1df5acc9515e" name="Changes" comment="inheritance">
+      <change afterPath="$PROJECT_DIR$/encapsulation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Data_time_module.executor": "Run",
+    "Python.encapsulation.executor": "Run",
     "Python.inheritance_python.executor": "Run",
     "Python.main.executor": "Run",
     "Python.oop_class_object.executor": "Run",
@@ -63,7 +64,29 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.inheritance_python">
+  <component name="RunManager" selected="Python.encapsulation">
+    <configuration name="encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic_Python_Course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="inheritance_python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic_Python_Course" />
       <option name="ENV_FILES" value="" />
@@ -110,6 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.encapsulation" />
         <item itemvalue="Python.inheritance_python" />
       </list>
     </recent_temporary>
@@ -226,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706610151835</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="inheritance">
+      <option name="closed" value="true" />
+      <created>1706698435408</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706698435408</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +281,7 @@
     <MESSAGE value="rock_paper_scissors_game" />
     <MESSAGE value="class and object" />
     <MESSAGE value="class object methods and constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="class object methods and constructor" />
+    <MESSAGE value="inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance" />
   </component>
 </project>
