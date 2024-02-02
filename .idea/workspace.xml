@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6448a1eb-e687-417d-8e6e-1df5acc9515e" name="Changes" comment="inheritance">
-      <change afterPath="$PROJECT_DIR$/encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getter_setter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,22 +50,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Data_time_module.executor": "Run",
-    "Python.encapsulation.executor": "Run",
-    "Python.inheritance_python.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.oop_class_object.executor": "Run",
-    "Python.patterns_programs.executor": "Run",
-    "Python.patterns_programs_right_angle_T.executor": "Run",
-    "Python.rock_paper_scissors_game.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Data_time_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.getter_setter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop_class_object.executor&quot;: &quot;Run&quot;,
+    &quot;Python.patterns_programs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.patterns_programs_right_angle_T.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors_game.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.encapsulation">
+}</component>
+  <component name="RunManager" selected="Python.getter_setter">
     <configuration name="encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic_Python_Course" />
       <option name="ENV_FILES" value="" />
@@ -79,6 +81,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getter_setter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic_Python_Course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getter_setter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +157,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.getter_setter" />
         <item itemvalue="Python.encapsulation" />
         <item itemvalue="Python.inheritance_python" />
       </list>
@@ -258,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706698435408</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="inheritance">
+      <option name="closed" value="true" />
+      <created>1706784091468</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706784091468</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
